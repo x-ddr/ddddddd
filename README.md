@@ -6,6 +6,8 @@ ql repo https://ghproxy.com/https://github.com/x-ddr/ddddddd.git "jd_|jx_|gua_|j
 
 
 
+# 添加以下环境变量
+
 
 ```bash
 ## 3、京东试用
